@@ -4,7 +4,7 @@ Date: 12. December 2018
 
 A incomplete/growing list of links, articles and buzzwords they somehow affected me on my way learning programming.
 
-# the essence
+# The Essence
 
 ## Coding Book
 
@@ -27,8 +27,7 @@ One of the following Erlang Books
 
 - [Joe Armstrong & Alan Kay](https://www.youtube.com/watch?v=fhOHn9TClXY) || [Computer Science - A Guide for the Perplexed](https://www.youtube.com/watch?v=rmueBVrLKcY)
 - [How To Build Systems That Survive](https://www.youtube.com/watch?v=rNQR1HqfEl0) || [Growing Old by Chad Fowler](https://www.youtube.com/watch?v=qH_y45he4-o)
-- [Simple made easy](https://www.youtube.com/watch?v=34_L7t7fD_U)
-- [Spec-ulation Keynote](https://www.youtube.com/watch?v=oyLBGkS5ICk)
+- [Spec-ulation Keynote](https://www.youtube.com/watch?v=oyLBGkS5ICk) || [Simple made easy](https://www.youtube.com/watch?v=34_L7t7fD_U)
 
 ## Coding Link Collection
 
@@ -47,10 +46,10 @@ One of the following Erlang Books
   - https://hoverbear.org/2016/10/12/rust-state-machine-pattern/
 - Client/Server (s. Erlang RPC calls)
 - Closures
-- All kind of middleware
-- Object Oriented
-  - Hint: Alan Kay - All about sending messages
-  - Use to store state (STATE MACHINES)
+- Middleware Pattern
+- Object Oriented Programming
+  - Hint: Alan Kay: “The Big Idea is Messaging”
+  - State storage (STATE MACHINES)
 - Concurrent Programming
   - Promises
   - Futures
@@ -67,6 +66,7 @@ One of the following Erlang Books
   - Clojure spec
   - Quick Check https://en.wikipedia.org/wiki/QuickCheck
   - https://www.youtube.com/watch?v=iW2J7Of8jsE
+  - https://www.heise.de/developer/artikel/Qualitaetssicherung-ausgewogen-1792246.html?seite=all
 - Design Pattern
   - Command Pattern
   - Proxy Pattern
@@ -85,20 +85,22 @@ One of the following Erlang Books
   - Chaos Engineering
 - Design by Contract
 - Assert Programming
+  - https://www.microsoft.com/en-us/research/wp-content/uploads/2013/03/paper_submitted.pdf
+  - https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2006-54.pdf
 - Code Generation
 - Versioning
   - https://research.swtch.com/vgo-intro
   - https://www.youtube.com/watch?v=oyLBGkS5ICk
 
-# APIs / Type Defintion / Interface Definition Languages
+## APIs / Type Defintion / Interface Definition Languages
 
-First truly understand what RESTful is then think about how many times you implemted a RESTful API (probably never) and then compare to other API types
+Tip: First truly understand what RESTful means. Next, think about how many times you implemted a RESTful API (probably never) and then compare to other API types
 
 Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven) (Inventor of REST)
 
 - REST
   - HATEOS
-  - https://www.youtube.com/watch?v=g4sqydY3hHU)
+  - https://www.youtube.com/watch?v=g4sqydY3hHU
   - Hint: Singel Entry Point
 - GraphQL
 - protobuf
@@ -110,7 +112,7 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - Netflix falcor
 - OpenAPI (swagger)
 
-# Log Databases / Event Sourcing
+## Log Databases / Event Sourcing
 
 - https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 - https://martinfowler.com/eaaDev/EventSourcing.html
