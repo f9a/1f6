@@ -196,6 +196,11 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - https://www.youtube.com/watch?v=rNQR1HqfEl0
 - https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
 
+## German
+
+- https://ulm.ccc.de/ChaosSeminar/2007/07_Software_Engineering
+- https://ulm.ccc.de/ChaosSeminar/2007/10_automatisierte_Softwareentwicklung
+
 # Random Buzzwords
 
 - Conectepts from plan9
