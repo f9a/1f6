@@ -122,6 +122,17 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
   - https://github.com/travisjeffery/jocko
   - https://eventstore.org/
 
+# DevOps
+
+- https://arxiv.org/pdf/1404.3056.pdf
+- https://arxiv.org/abs/1408.2103
+- https://www.researchgate.net/publication/37164683_Understanding_the_role_of_chaos_theory_in_military_decision_making
+
+## Chaos Engineering
+
+- https://azure.microsoft.com/de-de/blog/inside-azure-search-chaos-engineering/
+- https://github.com/dastergon/awesome-chaos-engineering
+
 # Technical Books
 
 - [Programming Erlang](https://www.amazon.de/Programming-Erlang-Concurrent-Pragmatic-Programmers/dp/193778553X)
@@ -193,14 +204,6 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - CouchDB
 - Chaos Theroy
 - Evolutionary algorithm
-
-# Chaos Engineering
-
-- https://github.com/dastergon/awesome-chaos-engineering
-- https://azure.microsoft.com/de-de/blog/inside-azure-search-chaos-engineering/
-- https://arxiv.org/pdf/1404.3056.pdf
-- https://arxiv.org/abs/1408.2103
-- https://www.researchgate.net/publication/37164683_Understanding_the_role_of_chaos_theory_in_military_decision_making
 
 # Programming Languages
 
