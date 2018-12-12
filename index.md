@@ -151,7 +151,7 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - Everything from Richard P. Feynman
 - Seneca
 
-## German Books
+## German
 
 - [Energie - Wie verschwendet man etwas, das nicht weniger werden kann?](https://www.amazon.de/Energie-verschwendet-etwas-weniger-werden/dp/3662497417/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1544648531&sr=1-1-fkmr0&keywords=Energie+wie+verschwendet+man+etwas+das+man+nicht+verbrauche+kann)
 - [Erfindung der Zeit](https://www.amazon.de/Leibniz-Newton-Erfindung-Zeit-German-ebook/dp/B00CXTY86I/ref=sr_1_2?s=books&ie=UTF8&qid=1544648482&sr=1-2&keywords=Die+Erfindung+der+Zeit)
@@ -202,7 +202,7 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - https://arxiv.org/abs/1408.2103
 - https://www.researchgate.net/publication/37164683_Understanding_the_role_of_chaos_theory_in_military_decision_making
 
-## Programming Languages
+# Programming Languages
 
 - erlang (prolog)
 - golang
@@ -214,7 +214,7 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - Eiffel (Design by Contract)
 - Haskell
 
-## People
+# People
 
 - Richard Feynman
 - John von Neumann
