@@ -224,7 +224,7 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - Martin Fowler
 - [Joe Armstrong](https://www.youtube.com/results?search_query=joe+armstrong)
 - [Rich Hickey](https://www.youtube.com/results?search_query=Rich+Hickey)
-- (\_why)[https://en.wikipedia.org/wiki/Why_the_lucky_stiff]
+- (why the lucky stiff)[https://en.wikipedia.org/wiki/Why_the_lucky_stiff]
 
 # EOF (relax)
 
