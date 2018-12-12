@@ -224,8 +224,6 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - Martin Fowler
 - [Joe Armstrong](https://www.youtube.com/results?search_query=joe+armstrong)
 - [Rich Hickey](https://www.youtube.com/results?search_query=Rich+Hickey)
-- (why the lucky stiff)[https://en.wikipedia.org/wiki/Why_the_lucky_stiff]
+- [why the lucky stiff](https://en.wikipedia.org/wiki/Why_the_lucky_stiff)
 
-# EOF (relax)
-
-[Endless Summer 2](https://www.youtube.com/watch//?v=OiZb9uBV4GE)
+EOF([Relax](https://www.youtube.com/watch//?v=OiZb9uBV4GE))
