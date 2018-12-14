@@ -91,6 +91,8 @@ One of the following Erlang Books
 - Versioning
   - https://research.swtch.com/vgo-intro
   - https://www.youtube.com/watch?v=oyLBGkS5ICk
+- Flow-based programming
+- Metaprogramming
 
 ## APIs / Type Defintion / Interface Definition Languages
 
@@ -170,6 +172,7 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 
 # Random Link List
 
+- [Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
 - [Papers We Love](https://www.youtube.com/channel/UCoj4eQh_dZR37lL78ymC6XA)
 - https://www.youtube.com/watch?v=Cym4TZwTCNU
 - https://www.youtube.com/watch?v=4SUdnOUKGmo
@@ -186,7 +189,6 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - https://www.youtube.com/watch?v=rmueBVrLKcY
 - https://www.google.de/search?q=algorithm+%2B+data+structure+%3D+program&oq=algorithmen+data+structur&aqs=chrome.2.69i57j0l5.7460j0j4&sourceid=chrome&ie=UTF-8
 - https://www.youtube.com/watch?v=fhOHn9TClXY
-- https://www.youtube.com/watch?v=oKg1hTOQXoY
 - https://www.youtube.com/watch?v=KdnGPQaICjk&list=PLTI2Kz0V2OFlgbkROVmzkfQRW2FrX2KfR
 - https://cr.yp.to/bib/1995/wirth.pdf
 - https://www.youtube.com/watch?v=qH_y45he4-o
@@ -195,6 +197,7 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - https://edgecoders.com/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312
 - https://www.youtube.com/watch?v=rNQR1HqfEl0
 - https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
+- https://www.youtube.com/watch?v=TTM_b7EJg5E
 
 ## German
 
