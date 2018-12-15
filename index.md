@@ -142,7 +142,7 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - [Clean Code](https://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1544646605&sr=8-1&keywords=clean+code)
 - [Pattern Of Enterprise Applications](https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?ie=UTF8&qid=1544646623&sr=8-1&keywords=Pattern+Of+Enterprise+Applications)
 - [The C Programming Language](https://www.amazon.de/Programming-Language-Prentice-Hall-Software/dp/0131103628/ref=sr_1_1?ie=UTF8&qid=1544646641&sr=8-1&keywords=The+C+Programming+Language)
-- [Why Poignant Guide to Ruby](<(https://poignant.guide/)>)
+- [Why Poignant Guide to Ruby](https://poignant.guide/)
 - [Chaos Engineering](https://www.oreilly.com/library/view/chaos-engineering/9781491988459/)
 - [The good parts javascript](https://www.amazon.de/JavaScript-Parts-Working-Shallow-Grain/dp/0596517742/ref=sr_1_1?ie=UTF8&qid=1544646753&sr=8-1&keywords=The+good+parts+javascript)
 - [Sprint](https://www.amazon.de/Jake-Knapp/e/B019N34KS2/ref=sr_ntt_srch_lnk_1?qid=1544646770&sr=8-1)
