@@ -152,17 +152,19 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - [Antifragile: Things That Gain from Disorder](https://www.amazon.de/Antifragile-Things-That-Disorder-Incerto/dp/1400067820)
 - [The mythical man month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - [Thinking, Fast and Slow](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576)
-- [Perfect Mess](https://www.amazon.de/Perfect-Mess-Disorder-How-Cluttered-Fly/dp/0316013994/ref=sr_1_1?ie=UTF8&qid=1544648201&sr=8-1&keywords=the+perfect+mess)
-- [Hackers Painters](https://www.amazon.de/Hackers-Painters-Big-Ideas-Computer/dp/1449389554/ref=sr_1_1?ie=UTF8&qid=1544648252&sr=8-1&keywords=Hackers+%26+Painters)
-- [Hackers Heroes Computer of the Computer Revolution](https://www.amazon.de/Hackers-Heroes-Computer-Revolution-2001-01-01/dp/B01K3JENBO/ref=sr_1_2?s=books&ie=UTF8&qid=1544648327&sr=1-2&keywords=Hackers+steven+levy)
+- [Perfect Mess](https://www.amazon.de/Perfect-Mess-Disorder-How-Cluttered-Fly/dp/0316013994)
+- [Hackers Painters](https://www.amazon.de/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
+- [Hackers Heroes Computer of the Computer Revolution](https://www.amazon.de/Hackers-Heroes-Computer-Revolution-2001-01-01/dp/B01K3JENBO)
 - [Measuring the World ](https://www.amazon.de/Measuring-World-Daniel-Kehlmann/dp/184724114X)
-- [Living with Complexity](https://www.amazon.de/Living-Complexity-Donald-Norman-2010-10-29/dp/B01K3QU6UY/ref=sr_1_4?s=books&ie=UTF8&qid=1544648567&sr=1-4&keywords=Living+with+Complexity)
-- [iWoz](https://www.amazon.de/Iwoz-Computer-Geek-Cult-Icon/dp/0393330435/ref=sr_1_1?ie=UTF8&qid=1544648680&sr=8-1&keywords=iWoz)
-- [Just for Fun: The Story of an Accidental Revolutionary](https://www.amazon.de/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=06N8HYN8SGZRAWGT2K37)
+- [Living with Complexity](https://www.amazon.de/Living-Complexity-Donald-Norman-2010-10-29/dp/B01K3QU6UY)
+- [iWoz](https://www.amazon.de/Iwoz-Computer-Geek-Cult-Icon/dp/0393330435/)
+- [Just for Fun: The Story of an Accidental Revolutionary](https://www.amazon.de/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732)
 - Brave new world
 - 1984
 - Everything from Richard P. Feynman
 - Seneca
+- [Cradle to Cradle](https://www.amazon.de/Cradle-Einfach-intelligent-produzieren/dp/3492304672)
+- [Prosperity Without Growth](https://www.amazon.de/Prosperity-without-Growth-Tim-Jackson/dp/1849713235)
 
 ## German
 
