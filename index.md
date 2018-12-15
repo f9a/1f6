@@ -93,6 +93,7 @@ One of the following Erlang Books
   - https://www.youtube.com/watch?v=oyLBGkS5ICk
 - Flow-based programming
 - Metaprogramming
+- [Raft](https://raft.github.io/) / [Gossip Protocol](https://www.serf.io/docs/internals/gossip.html)
 
 ## APIs / Type Defintion / Interface Definition Languages
 
