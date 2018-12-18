@@ -106,8 +106,10 @@ One of the following Erlang Books
   - DRY (Don’t repeat yourself)
   - KISS
   - YAGNI (You aren't gonna need it)
+  - Database
+    - ACID (Atomicity, Consistency, Isolation, Durability)
+    - BASE (Basically Available, Soft state, Eventual consistency)
 
-- ACID (Atomicity, Consistency, Isolation, Durability)
 - BMPN
   - Camunda
 
