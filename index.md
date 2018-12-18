@@ -94,6 +94,22 @@ One of the following Erlang Books
 - Flow-based programming
 - Metaprogramming
 - [Raft](https://raft.github.io/) / [Gossip Protocol](https://www.serf.io/docs/internals/gossip.html)
+- CAP theorem
+- [principles](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)
+
+  - SOLID
+    - SRP (Single responsibility principle) // smal is beautiful
+    - OCP (Open–closed principle)
+    - LSP (Liskov substitution principle)
+    - ISP (Interface segregation principle)
+    - DIP (Dependency-Inversion-Prinzip) // all about interfaces
+  - DRY (Don’t repeat yourself)
+  - KISS
+  - YAGNI (You aren't gonna need it)
+
+- ACID (Atomicity, Consistency, Isolation, Durability)
+- BMPN
+  - Camunda
 
 ## APIs / Type Defintion / Interface Definition Languages
 
