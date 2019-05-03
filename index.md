@@ -198,6 +198,7 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - https://www.youtube.com/watch?v=rNQR1HqfEl0
 - https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
 - https://www.youtube.com/watch?v=TTM_b7EJg5E
+- http://spawnedshelter.com/
 
 ## German
 
