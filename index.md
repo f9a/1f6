@@ -93,6 +93,25 @@ One of the following Erlang Books
   - https://www.youtube.com/watch?v=oyLBGkS5ICk
 - Flow-based programming
 - Metaprogramming
+- [Raft](https://raft.github.io/) / [Gossip Protocol](https://www.serf.io/docs/internals/gossip.html)
+- CAP theorem
+- [principles](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)
+
+  - SOLID
+    - SRP (Single responsibility principle) // smal is beautiful
+    - OCP (Open–closed principle)
+    - LSP (Liskov substitution principle)
+    - ISP (Interface segregation principle)
+    - DIP (Dependency-Inversion-Prinzip) // all about interfaces
+  - DRY (Don’t repeat yourself)
+  - KISS
+  - YAGNI (You aren't gonna need it)
+  - Database
+    - ACID (Atomicity, Consistency, Isolation, Durability)
+    - BASE (Basically Available, Soft state, Eventual consistency)
+
+- BMPN
+  - Camunda
 
 ## APIs / Type Defintion / Interface Definition Languages
 
@@ -141,7 +160,7 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - [Clean Code](https://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1544646605&sr=8-1&keywords=clean+code)
 - [Pattern Of Enterprise Applications](https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?ie=UTF8&qid=1544646623&sr=8-1&keywords=Pattern+Of+Enterprise+Applications)
 - [The C Programming Language](https://www.amazon.de/Programming-Language-Prentice-Hall-Software/dp/0131103628/ref=sr_1_1?ie=UTF8&qid=1544646641&sr=8-1&keywords=The+C+Programming+Language)
-- [Why Poignant Guide to Ruby](<(https://poignant.guide/)>)
+- [Why Poignant Guide to Ruby](https://poignant.guide/)
 - [Chaos Engineering](https://www.oreilly.com/library/view/chaos-engineering/9781491988459/)
 - [The good parts javascript](https://www.amazon.de/JavaScript-Parts-Working-Shallow-Grain/dp/0596517742/ref=sr_1_1?ie=UTF8&qid=1544646753&sr=8-1&keywords=The+good+parts+javascript)
 - [Sprint](https://www.amazon.de/Jake-Knapp/e/B019N34KS2/ref=sr_ntt_srch_lnk_1?qid=1544646770&sr=8-1)
@@ -152,17 +171,19 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - [Antifragile: Things That Gain from Disorder](https://www.amazon.de/Antifragile-Things-That-Disorder-Incerto/dp/1400067820)
 - [The mythical man month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - [Thinking, Fast and Slow](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576)
-- [Perfect Mess](https://www.amazon.de/Perfect-Mess-Disorder-How-Cluttered-Fly/dp/0316013994/ref=sr_1_1?ie=UTF8&qid=1544648201&sr=8-1&keywords=the+perfect+mess)
-- [Hackers Painters](https://www.amazon.de/Hackers-Painters-Big-Ideas-Computer/dp/1449389554/ref=sr_1_1?ie=UTF8&qid=1544648252&sr=8-1&keywords=Hackers+%26+Painters)
-- [Hackers Heroes Computer of the Computer Revolution](https://www.amazon.de/Hackers-Heroes-Computer-Revolution-2001-01-01/dp/B01K3JENBO/ref=sr_1_2?s=books&ie=UTF8&qid=1544648327&sr=1-2&keywords=Hackers+steven+levy)
+- [Perfect Mess](https://www.amazon.de/Perfect-Mess-Disorder-How-Cluttered-Fly/dp/0316013994)
+- [Hackers Painters](https://www.amazon.de/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
+- [Hackers Heroes Computer of the Computer Revolution](https://www.amazon.de/Hackers-Heroes-Computer-Revolution-2001-01-01/dp/B01K3JENBO)
 - [Measuring the World ](https://www.amazon.de/Measuring-World-Daniel-Kehlmann/dp/184724114X)
-- [Living with Complexity](https://www.amazon.de/Living-Complexity-Donald-Norman-2010-10-29/dp/B01K3QU6UY/ref=sr_1_4?s=books&ie=UTF8&qid=1544648567&sr=1-4&keywords=Living+with+Complexity)
-- [iWoz](https://www.amazon.de/Iwoz-Computer-Geek-Cult-Icon/dp/0393330435/ref=sr_1_1?ie=UTF8&qid=1544648680&sr=8-1&keywords=iWoz)
-- [Just for Fun: The Story of an Accidental Revolutionary](https://www.amazon.de/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=06N8HYN8SGZRAWGT2K37)
+- [Living with Complexity](https://www.amazon.de/Living-Complexity-Donald-Norman-2010-10-29/dp/B01K3QU6UY)
+- [iWoz](https://www.amazon.de/Iwoz-Computer-Geek-Cult-Icon/dp/0393330435/)
+- [Just for Fun: The Story of an Accidental Revolutionary](https://www.amazon.de/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732)
 - Brave new world
 - 1984
 - Everything from Richard P. Feynman
 - Seneca
+- [Cradle to Cradle](https://www.amazon.de/Cradle-Einfach-intelligent-produzieren/dp/3492304672)
+- [Prosperity Without Growth](https://www.amazon.de/Prosperity-without-Growth-Tim-Jackson/dp/1849713235)
 
 ## German
 
