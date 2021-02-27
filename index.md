@@ -122,6 +122,7 @@ Read Articles from [Roy T. Fielding](http://roy.gbiv.com/untangled/2008/rest-api
 - REST
   - HATEOS
   - https://www.youtube.com/watch?v=g4sqydY3hHU
+  - https://youtu.be/pspy1H6A3FM
   - Hint: Singel Entry Point
 - GraphQL
 - protobuf
